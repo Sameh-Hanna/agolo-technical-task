@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Algeria",
+    "litePackageName": "Lite",
+    "litePackagePrice": "2.7",
+    "litePackageCurrency": "USD/month",
+    "classicPackageName": "Classic",
+    "classicPackagePrice": "5.3",
+    "classicPackageCurrency": "USD/month",
+    "premiumPackageName": "Premium",
+    "premiumPackagePrice": "8",
+    "premiumPackageCurrency": "USD/month"
+  },
+  {
+    "country": "Egypt",
+    "litePackageName": "Lite",
+    "litePackagePrice": "0.25",
+    "litePackageCurrency": "USD/month",
+    "classicPackageName": "Classic",
+    "classicPackagePrice": "0.5",
+    "classicPackageCurrency": "USD/month",
+    "premiumPackageName": "Premium",
+    "premiumPackagePrice": "1",
+    "premiumPackageCurrency": "USD/month"
+  },
+  {
+    "country": "Arab Emirates",
+    "litePackageName": "Lite",
+    "litePackagePrice": "5.4",
+    "litePackageCurrency": "USD/month",
+    "classicPackageName": "Classic",
+    "classicPackagePrice": "10.9",
+    "classicPackageCurrency": "USD/month",
+    "premiumPackageName": "Premium",
+    "premiumPackagePrice": "16.3",
+    "premiumPackageCurrency": "USD/month"
+  }
+]

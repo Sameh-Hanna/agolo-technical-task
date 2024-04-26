@@ -1,0 +1,14 @@
+<Websites>
+    <Website>
+        <URL>https://www.sephora.sg/</URL>
+        <Tile>Sephora Singapore</Tile>
+        <Description>Sephora, where beauty beats. Discover the best in makeup, skin care, and more from a wide selection of beauty brands. Free shipping for orders above S$40.</Description>
+        <CreatedDate>10/30/2019 6:41:56 AM</CreatedDate>
+    </Website>
+    <Website>
+        <URL>https://www.test-website.sg/</URL>
+        <Tile>test website</Tile>
+        <Description>Test Website Description</Description>
+        <CreatedDate>10/30/2018 6:41:56 AM</CreatedDate>
+    </Website>
+</Websites>
