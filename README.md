@@ -8,7 +8,7 @@ implemented in src\test\java\Q01_Part01_PetStore\PetStoreAPITests.java
 ### Demoblaze Login and Sign Up Tests
 implmented in:
 - src\test\java\Q01_Part02_Demoblaze\LoginTests
-- javasrc\test\java\Q01_Part02_Demoblaze\SignUpTests.java
+- src\test\java\Q01_Part02_Demoblaze\SignUpTests.java
 
 ### Xml Deserializer
 implemented in src\test\java\Q02_Part01_XmlDeserialiser\websitesXmlDeserializer.java
