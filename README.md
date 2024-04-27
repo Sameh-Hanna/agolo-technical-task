@@ -2,18 +2,18 @@
 
 ## Project Overview
 This project contains the implementation for Agolo technical task as below:
-### Pet Store API Tests
+### Q1 Part1 Pet Store API Tests
 implemented in src\test\java\Q01_Part01_PetStore\PetStoreAPITests.java
 
-### Demoblaze Login and Sign Up Tests
-implmented in:
+### Q1 Part2 Demoblaze Login and Sign Up Tests
+implemented in:
 - src\test\java\Q01_Part02_Demoblaze\LoginTests
 - src\test\java\Q01_Part02_Demoblaze\SignUpTests.java
 
-### Xml Deserializer
+### Q2 Part1 Xml Deserializer
 implemented in src\test\java\Q02_Part01_XmlDeserialiser\websitesXmlDeserializer.java
 
-### STC TV Subscription Packages
+### Q2 Part2 STC TV Subscription Packages
 implemented in cypress\e2e\STCTV
 
 
